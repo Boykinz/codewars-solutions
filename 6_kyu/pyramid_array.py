@@ -1,0 +1,1 @@
+pyramid = lambda n: [[1 for _ in range(k)] for k in range(1, n+1)]
