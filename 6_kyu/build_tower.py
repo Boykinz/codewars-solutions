@@ -1,0 +1,1 @@
+tower_builder = lambda n: ['{0}{1}{0}'.format((n-i-1)*' ', (2*i+1)*'*') for i in range(n)]
